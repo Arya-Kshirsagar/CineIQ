@@ -162,3 +162,7 @@ streamlit run app.py
 ```bash
 mlflow ui --backend-store-uri sqlite:///mlflow.db
 ```
+
+## Contributors
+- Arnav De
+- Arya Kshirsagar
